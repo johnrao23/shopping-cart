@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/johnrao23/shopping-cart.git/static/css/main.f699b556.css",
+    "main.js": "/johnrao23/shopping-cart.git/static/js/main.0688d246.js",
+    "index.html": "/johnrao23/shopping-cart.git/index.html",
+    "main.f699b556.css.map": "/johnrao23/shopping-cart.git/static/css/main.f699b556.css.map",
+    "main.0688d246.js.map": "/johnrao23/shopping-cart.git/static/js/main.0688d246.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f699b556.css",
+    "static/js/main.0688d246.js"
+  ]
+}
